@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'TT Norms';
+    src: url('TTNorms-Bold.eot');
+    src: url('TTNorms-Bold.eot?#iefix') format('embedded-opentype'),
+        url('TTNorms-Bold.woff') format('woff'),
+        url('TTNorms-Bold.ttf') format('truetype'),
+        url('TTNorms-Bold.svg#TTNorms-Bold') format('svg');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
